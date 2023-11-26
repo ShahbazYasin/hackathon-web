@@ -224,11 +224,11 @@ button:hover
 {
     background-color: #34365A;
     margin: 0px;
-    padding: 0px;
+    padding: 20px;
 }
 .sec2 h1
 {
-    /* margin: 0px; */
+    margin: 50px;
     color: white;
     text-align: center;
 
@@ -245,6 +245,11 @@ button:hover
     
 }
 
+.inner-container-sec2 p
+{
+    color: white;
+    font-size: 24px;
+}
 .box-sec2
 {
     background-color: white;
@@ -276,7 +281,7 @@ button:hover
 
 .main-container2-sec2 h1
 {
-    color: #F1BB13;
+    color: #fcfbfa;
     text-align: left;
     padding: 20px;
 }
@@ -301,7 +306,8 @@ button:hover
 
 .years
 {
-
+    font-size: 60px;
+    
 }
 
 .course-flex
@@ -310,3 +316,113 @@ button:hover
     justify-content: space-between;
 }
 
+
+
+
+.main-container-contact1
+{
+    display: flex;
+    justify-content: center;   
+}
+.contact-img img
+{
+    width: 250px;
+    height: 250px;
+    padding: 80px 20px 20px 20px;
+}
+.contact-textbox2 h1
+{
+    text-align: center;
+    padding: 0px 200px;
+}
+.contact-textbox2 p
+{
+    color: black;
+    text-align: center;
+    padding: 20px 220px;
+    font-size: 24px;
+}
+.contact-textbox2 a
+{
+    color: black;
+}
+.contact-textbox2 a:hover
+{
+    color: black;
+}
+.button-center
+{
+    text-align: center;
+    padding: 10px 0px 50px 0px;
+}
+
+
+
+
+.contact-textbox3
+{
+    background-color: #34365A;
+    display: flex;
+    justify-content: center;
+}
+.contact-textbox3-inner
+{
+    color: white;
+    width: 33%;
+    padding: 50px;
+    margin: 10px; 
+}
+.font-size-contact h1
+{
+    font-size: 40px;
+}
+.font-size-contact h2
+{
+    font-size: 20px;
+    font-style: italic;
+}
+.font-size-contact input
+{
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+}
+textarea
+{
+    padding: 0px;
+    margin: 10px;
+}
+.contact-submit-button
+{
+    background-color: #F1BB13;
+    width: 320px;
+    height: 40px;
+    text-align: center;
+}
+.social-icons img
+{
+    width: 40px; 
+    padding: 5px;
+}
+
+footer
+{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+footer p
+{
+    padding: 30px;
+}
+footer a
+{
+    color: white;
+}
+
+.backgrund-home-img2
+{
+    /* background-image: url(./images/contact\ img2\ img.jpg); */
+}
