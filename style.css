@@ -422,7 +422,135 @@ footer a
     color: white;
 }
 
-.backgrund-home-img2
-{
-    /* background-image: url(./images/contact\ img2\ img.jpg); */
+.backgrund-home-img2 {
+    position: relative;
+    display: flex;
+    align-items: center;
 }
+
+.our-mission-box {
+    position: absolute;
+    left: 100px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 20px; 
+}
+
+.our-mission p{
+    font-size: 24px;
+}
+.clients-background
+{
+    background-color: #34365A;
+    padding: 20px;
+}
+.clients-heading
+{
+    color: white;
+    padding: 10px 10px 10px 130px;
+}
+.clients-main-box
+{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px 50px;
+}
+.clients-box
+{
+    color: white;
+    text-align: center;
+}
+.clients-main-box2
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px 100px;
+    
+    
+}
+.clients-box2
+{
+    background-color: white;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 20px;
+
+}
+.clients-box2 p
+{
+    color: #535252;
+    font-size: 24px;
+}
+.clients-box2 h2
+{
+    color: #34365A;
+    font-size: 30px;
+}
+.circle-image
+{
+    border-radius: 50px;
+    width: 100px;
+}
+.core-main-box
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.core-background
+{
+    background-color: #F1BB13;
+    padding: 100px;
+}
+.percentage-background
+{
+    background-color: #34365A;
+}
+.per-main-box
+{
+    display: flex;
+    justify-content: center;
+    padding: 30px 100px 0px 10px;
+
+}
+.per-box
+{
+    background-color: #F1BB13;
+    margin: 50px 10px;
+    border-radius: 50px;
+    text-align: left;
+    width: 300px;
+    padding: 30px;
+}
+.per-box h1
+{
+    font-size: 100px;
+}
+.per-box p
+{
+    font-size: 24px;
+}
+.per-text
+{
+    color: white;
+    font-size: 24px;
+    padding: 0px 0px 50px 150px; 
+}
+.home-last-background
+{
+    background-color: #FBC201;
+    display: flex;
+}
+.home-last-textbox
+{
+    padding: 20px 10px 20px 150px;
+    width: 100%;
+}
+.home-last-textbox p
+{
+    font-size: 24px;
+    letter-spacing: 2px;
+    /* padding: 20px; */
+}
+
