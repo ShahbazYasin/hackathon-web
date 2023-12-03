@@ -428,6 +428,11 @@ footer a
     align-items: center;
 }
 
+.backgrund-home-img2 img
+{
+    width: 100%;
+}
+
 .our-mission-box {
     position: absolute;
     left: 100px;
@@ -554,3 +559,35 @@ footer a
     /* padding: 20px; */
 }
 
+
+.landing1-main-container
+{
+    display: flex;
+}
+.landing1-box-container img
+{
+    width: 100%;
+}
+.landing1-box-container
+{
+    width: 100%;
+}
+.section2-container
+{
+    display: flex;
+    display: block;
+    justify-content: center;
+    padding: 100px;
+}
+.landing-textbox2
+{
+    text-align: center;
+    padding: 0px 300px;
+}
+.landing-textbox2 p
+{
+    font-style: italic;
+    color: gray;
+    font-size: 20px;
+
+}
